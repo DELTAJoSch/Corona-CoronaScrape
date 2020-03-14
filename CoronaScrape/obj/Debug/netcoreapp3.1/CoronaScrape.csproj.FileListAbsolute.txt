@@ -1,0 +1,11 @@
+H:\Dokumente\Visual Studio 2019\Projects\CoronaScrape\CoronaScrape\bin\Debug\netcoreapp3.1\CoronaScrape.exe
+H:\Dokumente\Visual Studio 2019\Projects\CoronaScrape\CoronaScrape\bin\Debug\netcoreapp3.1\CoronaScrape.deps.json
+H:\Dokumente\Visual Studio 2019\Projects\CoronaScrape\CoronaScrape\bin\Debug\netcoreapp3.1\CoronaScrape.runtimeconfig.json
+H:\Dokumente\Visual Studio 2019\Projects\CoronaScrape\CoronaScrape\bin\Debug\netcoreapp3.1\CoronaScrape.runtimeconfig.dev.json
+H:\Dokumente\Visual Studio 2019\Projects\CoronaScrape\CoronaScrape\bin\Debug\netcoreapp3.1\CoronaScrape.dll
+H:\Dokumente\Visual Studio 2019\Projects\CoronaScrape\CoronaScrape\bin\Debug\netcoreapp3.1\CoronaScrape.pdb
+H:\Dokumente\Visual Studio 2019\Projects\CoronaScrape\CoronaScrape\obj\Debug\netcoreapp3.1\CoronaScrape.csprojAssemblyReference.cache
+H:\Dokumente\Visual Studio 2019\Projects\CoronaScrape\CoronaScrape\obj\Debug\netcoreapp3.1\CoronaScrape.AssemblyInfoInputs.cache
+H:\Dokumente\Visual Studio 2019\Projects\CoronaScrape\CoronaScrape\obj\Debug\netcoreapp3.1\CoronaScrape.AssemblyInfo.cs
+H:\Dokumente\Visual Studio 2019\Projects\CoronaScrape\CoronaScrape\obj\Debug\netcoreapp3.1\CoronaScrape.dll
+H:\Dokumente\Visual Studio 2019\Projects\CoronaScrape\CoronaScrape\obj\Debug\netcoreapp3.1\CoronaScrape.pdb
